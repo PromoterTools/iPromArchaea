@@ -1,0 +1,8 @@
+For Macaca mulatta (rhesus macaque), promoter data, including core promoter annotations, can also be found in the EPDnew database, although resources for rhesus macaque may be more limited compared to human data. Here are resources and references that might be useful:
+
+EPDnew Database for Macaca mulatta: The EPDnew database provides curated promoter sequences for various organisms, including rhesus macaque. While promoter data for model organisms like humans and mice is more extensive, you can still access Macaca mulatta promoter annotations by selecting the species-specific database. Visit EPDnew for Macaca mulatta for available promoter sequences and annotations.
+
+Research on Core Promoters in Non-Human Primates:
+
+Dreos, R., Ambrosini, G., Perier, R. C., & Bucher, P. (2013). EPD and EPDnew: An updated resource for promoter sequences in eukaryotic genomes. Nucleic Acids Research, 41(D1), D157-D160. This paper describes the EPDnew database and its expansion to include more eukaryotic species, detailing promoter sequences near the TSS.
+Carninci, P., Sandelin, A., Lenhard, B., et al. (2006). Genome-wide analysis of mammalian promoter architecture. Genome Research, 16(1), 1-12. Although focused on mammals broadly, this paper addresses conserved promoter elements across mammals, which include Macaca mulatta.
