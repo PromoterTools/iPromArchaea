@@ -1,4 +1,4 @@
-# 🧬 iProm-Archaea: CNN-based Archaeal Promoter Prediction Tool
+# 🧬 iProm-Archaea: CNN-based Archaeal Promoter Detection Tool
 
 <span style="color:gray;">A deep learning webserver for identifying archaeal promoter sequences with high accuracy.</span>
 
