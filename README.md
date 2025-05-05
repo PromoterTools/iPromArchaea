@@ -32,4 +32,22 @@ We also annotate **~586,455 promoter sequences** from **478 archaeal genomes**, 
 ---
 
 ## 📁 Repository Contents
+📄 app.py                       → Flask webserver script for running the iProm-Archaea tool
+📄 requirements.txt            → Python dependencies for the project
+📄 .gitignore                  → Git ignored files configuration
+
+📁 templates/                  → HTML templates for the web interface
+
+📄 model_cnn.weights.h5        → Trained CNN model weights
+
+📄 Promoters_training.txt      → Positive training set (promoter sequences)
+📄 negative_training.txt       → Negative training set (non-promoter sequences)
+
+📄 Arabidopsis thaliana fasta.txt     → Eukaryotic promoter dataset (test)
+📄 h.Spanies EPDnew.txt               → Human promoter dataset (test)
+📄 Macaca mulatta (rhesus maca ...    → Primate promoter dataset (test)
+
+📦 Predicted Promoters.zip     → Annotated archaeal promoter predictions (586,455 sequences)
+
+📄 README.md                   → This file (project overview, usage, license, etc.)
 
