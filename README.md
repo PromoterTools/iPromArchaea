@@ -50,4 +50,5 @@ We also annotate **~586,455 promoter sequences** from **478 archaeal genomes**, 
 📦 Predicted Promoters.zip     → Annotated archaeal promoter predictions (586,455 sequences)
 
 📄 README.md                   → This file (project overview, usage, license, etc.)
+📜 License: Original data: CC-BY-NC-ND (non-commercial, no derivatives). Our code/processed data: MIT License (no restrictions)."
 
