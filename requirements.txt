@@ -33,7 +33,7 @@ PyQtWebEngine==5.15.6
 scipy==1.15.3
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow==2.19.0
+tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.1.0
 webencodings==0.5.1
