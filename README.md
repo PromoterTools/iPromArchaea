@@ -3,7 +3,7 @@
 <span style="color:gray;">A deep learning webserver for identifying archaeal promoter sequences with high accuracy.</span>
 
 ---
-## 🖥️ Updated
+## 🖥️ Update
 We have updated our webserver link https://1289db90d996.ngrok-free.app/
 ## 🔍 Overview
 
