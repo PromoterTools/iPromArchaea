@@ -6,7 +6,7 @@
 ## 🖥️ Update
 We have updated our webserver link https://1289db90d996.ngrok-free.app/
 ## 🔍 Overview
-
+![Graphical Abstract](./graphical%20abstract.jpg)
 **iProm-Archaea** is a CNN-based tool designed to detect **promoter sequences in archaea**, using optimal 6-mer encoding. It outperforms existing methods in accuracy, precision, and AUC, and is freely available via [webserver](https://1289db90d996.ngrok-free.app/) and GitHub.
 
 We also annotate **~586,455 promoter sequences** from **478 archaeal genomes**, contributing a significant resource for the community.
